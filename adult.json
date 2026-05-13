@@ -3,210 +3,210 @@
     "id": "madou",
     "name": "🔞麻豆视频",
     "baseUrl": "https://91md.me/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "91jp",
     "name": "🔞91-精品-",
     "baseUrl": "https://91jpzyw.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "alvin",
     "name": "🔞--AIvin-",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "155zy",
     "name": "🔞155-资源",
     "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "yutu",
     "name": "🔞玉兔资源",
     "baseUrl": "https://apiyutu.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "fanhao",
     "name": "🔞番号资源",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "lsbzy",
     "name": "🔞-老色逼-",
     "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "youyou",
     "name": "🔞优优资源",
     "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "xiaoji",
     "name": "🔞小鸡资源",
     "baseUrl": "https://api.xiaojizy.live/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "hsck",
     "name": "🔞黄色仓库",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "danaizi",
     "name": "🔞-大奶子-",
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "jkun",
     "name": "🔞jkun资源",
     "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "lebo",
     "name": "🔞乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "naixiang",
     "name": "🔞奶香资源",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "lajiao",
     "name": "🔞辣椒资源",
     "baseUrl": "https://apilj.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "shayu",
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "xing",
     "name": "🔞-幸资源-",
     "baseUrl": "https://xzybb2.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "doudou",
     "name": "🔞豆豆资源",
     "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "didi",
     "name": "🔞滴滴资源",
     "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "heiliao",
     "name": "🔞黑料资源",
     "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "baiwan",
     "name": "🔞百万资源",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "taohua",
     "name": "🔞桃花资源",
     "baseUrl": "https://thzy1.me/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "jingpin",
     "name": "🔞精品资源",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "souav",
     "name": "🔞souavZY",
     "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "msnii",
     "name": "🔞-美少女-",
     "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "pgxdy",
     "name": "🔞-黄AVZY",
     "baseUrl": "https://www.pgxdy.com/api/json.php",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "kxgav",
     "name": "🔞白嫖资源",
     "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "semao",
     "name": "🔞色猫资源",
     "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
     "id": "aosika",
     "name": "🔞-奥斯卡-",
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   }
 ]
