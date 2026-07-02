@@ -1,0 +1,209 @@
+{
+  "site_name": "EchoTV",
+  "announcement": "",
+  "api_site": {
+    "1000000000001": {
+      "key": "1000000000001",
+      "name": "🎬电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000002": {
+      "key": "1000000000002",
+      "name": "🎬猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000003": {
+      "key": "1000000000003",
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000004": {
+      "key": "1000000000004",
+      "name": "🎬360 资源",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000005": {
+      "key": "1000000000005",
+      "name": "🎬魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000006": {
+      "key": "1000000000006",
+      "name": "🎬非凡资源",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000007": {
+      "key": "1000000000007",
+      "name": "🎬暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000008": {
+      "key": "1000000000008",
+      "name": "🎬最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000009": {
+      "key": "1000000000009",
+      "name": "🎬无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000010": {
+      "key": "1000000000010",
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000011": {
+      "key": "1000000000011",
+      "name": "🎬飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000012": {
+      "key": "1000000000012",
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000013": {
+      "key": "1000000000013",
+      "name": "🎬魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000014": {
+      "key": "1000000000014",
+      "name": "🎬如意资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000015": {
+      "key": "1000000000015",
+      "name": "🎬豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000016": {
+      "key": "1000000000016",
+      "name": "🎬-爱奇艺-",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000017": {
+      "key": "1000000000017",
+      "name": "🎬iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000018": {
+      "key": "1000000000018",
+      "name": "🎬极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000019": {
+      "key": "1000000000019",
+      "name": "🎬光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000020": {
+      "key": "1000000000020",
+      "name": "🎬新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    },
+    "1000000000021": {
+      "key": "1000000000021",
+      "name": "🎬U酷影视",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1774508348956"
+    }
+  },
+  "lives": {
+    "1772637934627": {
+      "key": "1772637934627",
+      "name": "直播",
+      "api": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u",
+      "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u",
+      "ua": null,
+      "epg": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    }
+  },
+  "custom_category": []
+}
