@@ -196,8 +196,8 @@
     "1772637934627": {
       "key": "1772637934627",
       "name": "直播",
-      "api": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u",
-      "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u",
+      "api": "https://iptv-org.github.io/iptv/index.m3u",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
       "ua": null,
       "epg": null,
       "from": "custom",
